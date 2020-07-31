@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "http://tcai-portfolio.herokuapp.com",
-    "contentApiKey": "af7b1a7dce27a60f338216bce2"
+    "contentApiKey": "d3396663acfa02d7b2e8e159e0"
   },
   "production": {
     "apiUrl": "http://tcai-portfolio.herokuapp.com",
-    "contentApiKey": "af7b1a7dce27a60f338216bce2"
+    "contentApiKey": "d3396663acfa02d7b2e8e159e0"
   }
 }
